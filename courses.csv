@@ -1,0 +1,31 @@
+course_id,name,instructor,enrolled_students,max_students,creation_date,schedule,description
+CS101,Introduction to Computer Science,Dr. Sarah Wilson,"g1234,emmaeng700",30,2025-04-04 04:32:17,"{'Monday': ('09:00', '10:30'), 'Wednesday': ('09:00', '10:30')}",Fundamental concepts of programming
+MATH205,Calculus III,Dr. Rachel Adams,,30,2025-04-04 04:32:17,"{'Monday': ('09:00', '10:30'), 'Wednesday': ('09:00', '10:30')}",Advanced calculus and multivariate functions
+ART101,Introduction to Drawing,Prof. Laura White,,25,2025-04-04 04:32:17,"{'Monday': ('09:00', '10:30'), 'Wednesday': ('09:00', '10:30')}",Basic drawing techniques and artistic expression
+CS236,Data Structures and Algorithms,Dr. James Chen,g123,25,2025-04-04 04:32:17,"{'Tuesday': ('13:00', '14:30'), 'Thursday': ('13:00', '14:30')}",Advanced study of data structures
+CHEM201,Organic Chemistry,Dr. Susan Martinez,,25,2025-04-04 04:32:17,"{'Tuesday': ('13:00', '14:30'), 'Thursday': ('13:00', '14:30')}",Study of organic compounds and reactions
+BUS301,Business Management,Prof. John Baker,,30,2025-04-04 04:32:17,"{'Tuesday': ('13:00', '14:30'), 'Thursday': ('13:00', '14:30')}",Principles of business management
+MATH201,Linear Algebra,Prof. Maria Garcia,"g1234,emmaeng700",35,2025-04-04 04:32:17,"{'Monday': ('11:00', '12:30'), 'Wednesday': ('11:00', '12:30')}",Study of linear equations
+BIO101,Introduction to Biology,Dr. Mark Thompson,,35,2025-04-04 04:32:17,"{'Monday': ('11:00', '12:30'), 'Wednesday': ('11:00', '12:30')}",Basic principles of biology
+PSY101,Introduction to Psychology,Dr. Emma Roberts,,30,2025-04-04 04:32:17,"{'Monday': ('11:00', '12:30'), 'Wednesday': ('11:00', '12:30')}",Fundamentals of psychology
+ENG205,Technical Writing,Prof. Robert Brown,,20,2025-04-04 04:32:17,"{'Tuesday': ('10:00', '11:30'), 'Thursday': ('10:00', '11:30')}",Technical writing skills
+HIST101,World History,Prof. Michael Chen,g123,25,2025-04-04 04:32:17,"{'Tuesday': ('10:00', '11:30'), 'Thursday': ('10:00', '11:30')}",Overview of world history
+SOC201,Sociology,Dr. Lisa Anderson,,30,2025-04-04 04:32:17,"{'Tuesday': ('10:00', '11:30'), 'Thursday': ('10:00', '11:30')}",Study of human society
+PHY301,Classical Mechanics,Dr. Alan Stewart,emmaeng700,28,2025-04-04 04:32:17,"{'Monday': ('14:00', '15:30'), 'Wednesday': ('14:00', '15:30')}",Classical mechanics applications
+MECH301,Mechanical Engineering,Prof. David Lee,,30,2025-04-04 04:32:17,"{'Monday': ('14:00', '15:30'), 'Wednesday': ('14:00', '15:30')}",Mechanical engineering principles
+ECO301,Economics,Dr. Sarah Williams,,25,2025-04-04 04:32:17,"{'Monday': ('14:00', '15:30'), 'Wednesday': ('14:00', '15:30')}",Principles of economics
+CS401,Advanced Software Engineering,Dr. Lisa Wang,g123,25,2025-04-04 04:32:17,"{'Tuesday': ('15:00', '16:30'), 'Thursday': ('15:00', '16:30')}",Software development lifecycle
+AI401,Artificial Intelligence,Dr. James Wilson,,30,2025-04-04 04:32:17,"{'Tuesday': ('15:00', '16:30'), 'Thursday': ('15:00', '16:30')}",AI and machine learning
+ROBO401,Robotics,Prof. Robert Taylor,g1234,25,2025-04-04 04:32:17,"{'Tuesday': ('15:00', '16:30'), 'Thursday': ('15:00', '16:30')}",Robotics and automation
+MATH302,Complex Analysis,Dr. John Smith,emmaeng700,30,2025-04-04 04:32:17,"{'Monday': ('13:00', '14:30'), 'Wednesday': ('13:00', '14:30')}",Study of complex numbers
+PHYS302,Quantum Physics,Dr. Maria Rodriguez,,25,2025-04-04 04:32:17,"{'Monday': ('13:00', '14:30'), 'Wednesday': ('13:00', '14:30')}",Quantum physics principles
+CS280,Web Development,Prof. Kevin Zhang,g1234,30,2025-04-04 04:32:17,"{'Monday': ('13:00', '14:30'), 'Wednesday': ('13:00', '14:30')}",Web development technologies
+CS350,Computer Networks,Prof. Michael Lee,,35,2025-04-04 04:32:17,"{'Tuesday': ('11:00', '12:30'), 'Thursday': ('11:00', '12:30')}",Computer networking
+NET301,Network Security,Dr. David Brown,g1234,30,2025-04-04 04:32:17,"{'Tuesday': ('11:00', '12:30'), 'Thursday': ('11:00', '12:30')}",Network security principles
+CYBR301,Cybersecurity,Prof. Sarah Chen,,25,2025-04-04 04:32:17,"{'Tuesday': ('11:00', '12:30'), 'Thursday': ('11:00', '12:30')}",Cybersecurity fundamentals
+PHY401,Quantum Mechanics,Dr. Emily Chen,g123,25,2025-04-04 04:32:17,"{'Monday': ('15:30', '17:00'), 'Wednesday': ('15:30', '17:00')}",Quantum mechanics applications
+ASTR401,Astrophysics,Dr. Mark Johnson,g1234,30,2025-04-04 04:32:17,"{'Monday': ('15:30', '17:00'), 'Wednesday': ('15:30', '17:00')}",Study of astrophysics
+SPACE401,Space Engineering,Prof. Lisa Taylor,,25,2025-04-04 04:32:17,"{'Monday': ('15:30', '17:00'), 'Wednesday': ('15:30', '17:00')}",Space engineering principles
+CS310,Database Systems,Prof. David Miller,emmaeng700,30,2025-04-04 04:32:17,"{'Tuesday': ('09:00', '10:30'), 'Thursday': ('09:00', '10:30')}",Database systems design
+DATA301,Data Analytics,Dr. Emma White,g1234,25,2025-04-04 04:32:17,"{'Tuesday': ('09:00', '10:30'), 'Thursday': ('09:00', '10:30')}",Data analytics and visualization
+ML301,Machine Learning,Prof. John Zhang,,30,2025-04-04 04:32:17,"{'Tuesday': ('09:00', '10:30'), 'Thursday': ('09:00', '10:30')}",Machine learning fundamentals
